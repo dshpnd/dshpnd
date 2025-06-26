@@ -1,9 +1,11 @@
 <h2 align="left">Hello, I'm Yash</h2>
 <h4 align="left">An Electronics & Telecommunication Engineering Student with great interest in AI, ECE, Python, and Basic Design</h4>
 
-- 🌱 I’m currently learning **Spanish, Python & AI**
+- 🌱 I’m currently learning **Spanish, Python, MySQL & AI**
 
 - 📫 Reach me at **yashdeshpande2004@gmail.com**
+
+- 🖱️ For my LeetCode click [Here](https://leetcode.com/u/dshpnd/)
 
 <h3 align="left">My Tech Stack:</h3>
 <div align="left">
