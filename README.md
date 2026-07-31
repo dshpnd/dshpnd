@@ -27,9 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dshpnd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
-</div>
+
 
 ###
